@@ -1,2 +1,9 @@
 # JimmyElwes
-My Personal Repository 
+
+Hi there, I am a Data Scientist/Analyst with a passion for coding!
+
+I began my professional career working in the telecoms industry as a graduate analyst learning my first programming language on the job SQL and getting my first taste of handling data. From there I built on these skills and became more affiliated with the world of Data Science. Streamlining SQL code in an innovative way to produce real-world savings for the business. I was promoted to Senior within a year and handed more responsibility for building out processes to handle larger amounts of data. It was here I got to appreciate the benefit of coding in teams with different areas of the business working towards a common goal. 
+
+After two years I felt I needed a change in the industry as telecoms was not an industry I felt any personal connection. From here I took a job as an investment analyst for the Careers and Enterprise Company. The Careers and Enterprise Company was established in 2015 to help link schools and colleges to employers, and to transform the provision of careers education. They do this through various avenues, I worked in the investment arm of the company which took primarily government funds and invested them into different projects and organisations. The company is relatively new so I worked closely with the data team to build the database structure and created a number of digital tools to improve the distribution of information in the company and administer the fund payments. It was here I taught myself R and had my first experience of working with government data which brought on several challenges around GDPR.
+
+I am now learning Python and want to expand my knowledge through projects the first of which was on a passion of mine, the UFC, looking to see if I could predict fight results.
