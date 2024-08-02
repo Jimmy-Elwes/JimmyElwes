@@ -1,9 +1,38 @@
-# JimmyElwes
+👋 Hi, I’m James Elwes, an aspiring entrepreneur and data analyst with a passion for leveraging technology to solve real-world problems. My journey in the tech world has equipped me with skills in data analysis, marketing strategy, and product development, which I aim to use to create impactful solutions.
 
-Hi there, I am a Data Scientist/Analyst with a passion for coding!
+🔧 Skills:
 
-I began my professional career working in the telecoms industry as a graduate analyst learning my first programming language on the job SQL and getting my first taste of handling data. From there I built on these skills and became more affiliated with the world of Data Science. Streamlining SQL code in an innovative way to produce real-world savings for the business. I was promoted to Senior within a year and handed more responsibility for building out processes to handle larger amounts of data. It was here I got to appreciate the benefit of coding in teams with different areas of the business working towards a common goal. 
+- **Data Analysis**: Proficient in SQL, Python, and R for extracting and analyzing data to drive business decisions.
+- **Marketing Strategy**: Experienced in developing and executing marketing plans, focusing on targeting the right audience for maximum impact.
+- **Product Development**: Skilled in transforming innovative ideas into viable products, ensuring they meet market needs and add user value.
+- **Financial Analysis**: Expertise in financial modeling, equity markets, and financial instruments.
+- **Advanced Tools**: Advanced proficiency in PowerPoint, Excel, Tableau, and Power BI for data visualization and reporting.
+- **Complex Problem Solving**: Strong analytical skills to solve complex problems effectively.
+- **Communication**: Excellent written and verbal communication skills for presenting data insights and recommendations.
+- **Risk Management**: Skilled in assessing and managing risks, particularly in financial and investment contexts.
+- **Web Scraping and Automation**: Experience in developing web scraping tools and automation scripts to streamline data collection processes.
+- **Software Development**: Knowledgeable in creating and maintaining software projects, with a focus on user-centric design and functionality.
+- **Cybersecurity Awareness**: Understanding of cybersecurity principles to ensure data privacy and protection.
+  
+🚀 Projects:
 
-After two years I felt I needed a change in the industry as telecoms was not an industry I felt any personal connection. From here I took a job as an investment analyst for the Careers and Enterprise Company. The Careers and Enterprise Company was established in 2015 to help link schools and colleges to employers, and to transform the provision of careers education. They do this through various avenues, I worked in the investment arm of the company which took primarily government funds and invested them into different projects and organisations. The company is relatively new so I worked closely with the data team to build the database structure and created a number of digital tools to improve the distribution of information in the company and administer the fund payments. It was here I taught myself R and had my first experience of working with government data which brought on several challenges around GDPR.
+- **Customer Segmentation**: Developed a robust customer segmentation model using clustering techniques in Python, enabling targeted marketing strategies Note: The code for this project is private.
+- **ExrxWebScraper**: A tool designed to scrape exercise data from the ExRx.net website, providing users easy access to a wide range of exercise information.
+- **IconGen**: A project to help generate icons easily using a simple and intuitive interface with customization options and export formats like PNG, SVG, and ICO.
+- **UFC Data Analysis**: A project to analyze and visualize data related to UFC fights and fighters, including tools for data extraction, cleaning, analysis, and visualization.
+- **GymScrape**: A project to scrape and analyze gym and fitness data from various websites, providing insights into fitness trends, gym locations, and more.
+- **User Generator**: A tool designed to generate realistic user data for various purposes such as testing, development, and data analysis.
+- **Wager**: A social betting app designed to enhance the betting experience by allowing users to place bets with friends and track their wagers in a social environment. Note: The code for this project is private and not publicly available.
 
-I am now learning Python and want to expand my knowledge through projects the first of which was on a passion of mine, the UFC, looking to see if I could predict fight results.
+🎯 Goals:
+
+	•	To continue honing my skills in data analysis and product development.
+	•	To launch my own business, focusing on innovative solutions that address safety and efficiency in everyday life.
+	•	To collaborate with other tech enthusiasts and industry professionals to bring cutting-edge ideas to life.
+
+💬 Let’s Connect:
+
+- [Linkedin](https://www.linkedin.com/in/jimmy-elwes/)
+- Personal Blog - incoming! 
+
+I’m always open to new opportunities and collaborations. Feel free to reach out if you want to discuss tech, data analysis, or potential business ventures!
